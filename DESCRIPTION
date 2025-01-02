@@ -2,7 +2,7 @@ Package: IFTPredictor
 Type: Package
 Title: Predictions Using Item-Focused Tree Models
 Version: 0.1.0
-Author@R:c( 
+Author@R: c( 
     person(given=c("Muditha","L."), family="Bodawatte Gedara", email="muditha.lakmali.1993@gmail.com", role=c("aut", "cre")),
     person(given=c("Barret","A."), family="Monchka", email="Barret.Monchka@umanitoba.ca", role="aut"),
     person(given=c("Lisa","M."), family="Lix", email="Lisa.Lix@umanitoba.ca", role="aut")
@@ -24,5 +24,6 @@ Imports:
     DIFtree
 Suggests:
     devtools,
-    testthat
+    testthat (>= 3.0.0)
 RoxygenNote: 7.3.2
+Config/testthat/edition: 3
