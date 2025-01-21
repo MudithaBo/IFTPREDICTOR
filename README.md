@@ -63,6 +63,6 @@ if (requireNamespace("DIFtree", quietly = TRUE)) {
  Journal of Educational and Behavioral Statistics 41(6), 559-592.
 
 ## Authors
-Muditha Bodawatte Gedara (muditha.lakmali.1993@gmail.com)
-Barret Monchka
+Muditha Bodawatte Gedara (muditha.lakmali.1993@gmail.com),
+Barret Monchka,
 Lisa Lix
