@@ -17,7 +17,7 @@ Description: This function predicts item response probabilities and item respons
   and uses logistic regression within each subgroup to explain the data. DIF detection is achieved by examining
   potential group differences in item response patterns. This method is useful for understanding how different
   covariates, such as demographic or psychological factors, influence item responses across subpopulations.
-License: GPL-3
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: 
