@@ -13,8 +13,7 @@ but it lacks tools to evalute model performance. We developed an R package,
 to predict item responses by accounting for DIF effects in PROM items.
 
 ## Key Features
-- Detects **Uniform DIF**.
-- Predicts responses for new data based on trained IFT models.
+- Predicts item responses adjusted for Differential Item Functioning (DIF) using the IFT model
 
 ## Installation
 To install the package from GitHub:
